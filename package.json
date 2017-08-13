@@ -1,7 +1,7 @@
 {
   "name": "vue-multiple-collapse",
   "description": "Vue based collapse component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "vue-multiple",
   "main": "lib/collapse.js",
   "files": [

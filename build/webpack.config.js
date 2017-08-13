@@ -6,8 +6,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, '..', './lib'),
-    filename: 'tabs.js',
-    library: 'tabs',
+    filename: 'collapse.js',
+    library: 'collapse',
     libraryTarget: 'umd'
   },
   externals: {
@@ -96,7 +96,7 @@ module.exports = {
     })
     // ,
     // new ExtractTextPlugin({
-    //   filename: '../lib/progess.css',
+    //   filename: '../lib/collapse.css',
     //   allChunks: true
     // })
   ]
